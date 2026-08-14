@@ -1,0 +1,8 @@
+{
+  "name": "Alex Morgan Portfolio",
+  "short_name": "Alex Morgan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050507",
+  "theme_color": "#050507"
+}
